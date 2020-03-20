@@ -1,11 +1,10 @@
 body{
     margin: 0px;
-    background-color: rgb(233, 245, 250);
+    background-color: rgb(250, 244, 244);
     font-family: sans-serif;
 }
 .container{
     width: 60%;
-     margin: auto; 
      background-color: rgb(250, 244, 244);
      padding: 15px;
 }
